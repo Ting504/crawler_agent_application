@@ -1,6 +1,6 @@
 # crawler_agent_application
 
-一个前后端分离的爬虫任务管理项目，包含：
+一个前后端分离的智能爬虫项目，可以让不熟悉爬虫工具的人通过前端界面完成爬虫任务，包含：
 
 - `crawler_agent_backend`：基于 FastAPI 的后端服务，负责任务创建、调度、模型配置、存储配置与抓取执行
 - `crawler_agent_fronted`：基于 Vue 3 + Vite 的前端界面，负责任务管理、调度管理、模型配置和存储配置
